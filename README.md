@@ -1,6 +1,6 @@
 # Trabalho Prático - DCC025
 
-Sistema bancário simples desenvolvido para a disciplina DCC025 - Orientação a Objetos - Semestre 2020.1
+Sistema bancário simples desenvolvido para a disciplina DCC025 - Orientação a Objetos - Semestre 2021.1
 
 ## Equipe
 
